@@ -1,6 +1,6 @@
 *"All we know is but a fraction of everything."*
 
-**Hi, I'm StellarSeal, Developer/Moderator of the LuckyVN Network [🌠](https://coolsymbol.com/copy/Shooting_Star_Emoji_Symbol_%F0%9F%8C%A0)**
+**Hi, I'm StellarSeal, a seal that has too much free time :3 [🌠](https://coolsymbol.com/copy/Shooting_Star_Emoji_Symbol_%F0%9F%8C%A0)**
 
 ## <img src="https://f4-zpcloud.zdn.vn/8980167990974008001/4a53de3797f054ae0de1.jpg" width="30px">&nbsp;***About me***
 ***A student who likes to code because he's bored.***
