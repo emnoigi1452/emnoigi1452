@@ -1,4 +1,4 @@
-*"All we know is but a fraction of everything."*
+*"All we know is but a fraction of everything."* - Random quote
 
 **Hi, I'm StellarSeal, a seal that has too much free time :3 [🌠](https://coolsymbol.com/copy/Shooting_Star_Emoji_Symbol_%F0%9F%8C%A0)**
 
