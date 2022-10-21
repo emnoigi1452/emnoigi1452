@@ -14,8 +14,10 @@
 ## <img src="https://f6-zpcloud.zdn.vn/3164957023454932638/dc61634e3fdbf885a1ca.jpg" width="30px">&nbsp;***My stats (Still a beginner)***
 - [***LeetCode***](https://https://leetcode.com/emnoigi1452/) ***- #516k***
 <img src="https://f7-zpcloud.zdn.vn/3487444013993330104/29e14a170982cedc9793.jpg">
-
 * ***Languages I use***
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnoigi1452&layout=compact&hide=batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ***Thanks to <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a> for the template!***
+
